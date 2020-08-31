@@ -1,9 +1,9 @@
 My favorite things include:
-* Shoes
-* Pizza
+* Shoes 
+* Pizza :pizza:
 * Sports
-  * Basketball
-  * Football
+  * Basketball :basketball:
+  * Football :football:
 
 My favorite books are:
 - The Most Important Thing
